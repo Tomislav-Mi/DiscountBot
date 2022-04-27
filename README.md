@@ -18,5 +18,5 @@
 
 
 
-[^1]: First project that is based on my own idea. The idea came whilst talking to my brother over the phone. After I had hung up the phone I rushed to the computer to code it down. 
+[^1]: First project that is based on my own idea. The idea came whilst talking to my brother over the phone. After I had hung up I rushed to the computer to code it down. 
 [^2]: The code is simple but I had great fun writing it, digging through the documentation of Python Telegram Bot’s library (https://python-telegram-bot.readthedocs.io/en/stable/), and finding a solution on how to run the code 24/7 (ended up with https://www.pythonanywhere.com/).
