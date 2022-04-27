@@ -9,7 +9,7 @@
 
 ## How to Use
 - Use Telegram's bot "BotFather" to create a new bot account.
-- Once a new bot account is created, you'll receive a access token for your bot's API.
+- Once a new bot account is created, you'll receive an access token for your bot's API.
 - Insert the token in constants.py > API_KEY = "[Your api key goes here.]".
 - Upload the code to a server and run it 24/7.
 
