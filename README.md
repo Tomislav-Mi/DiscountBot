@@ -4,7 +4,7 @@
 ## Key Features
 - Sends a list with company names to the user from which to choose.
 - Based on the user's choice, returns a discount code with instructions on how to use the code.
-- Any input by the user returns a list with the company names. This is to make the user experience as simple as possible.
+- Any input by the user returns a list with company names. This is to make the user experience as simple as possible.
 - Insults, however, will cause the bot to respond differently.
 
 ## How to Use
