@@ -14,7 +14,7 @@
 - Upload the code to a server and run it 24/7.
 
 ## Link to a Live Version
-- Link to Discount Bot: https://t.me/discount_beep_bot.
+- Link to Discount Bot: https://t.me/discount_beep_bot
 
 ## Nota Bene
 - First project that is based on my own idea. The idea came whilst talking to my brother over the phone. After I had hung up the phone I rushed to the computer to code it down. 
