@@ -41,9 +41,6 @@ def return_list(text_input):
     if text_input in GETT_NAME:
         return GETT_CODE
 
-    if text_input in ("help", "hlp", "hep"):
-        return HELP_MESSAGE
-
     if text_input in SWEAR_WORDS:
         return random.choice(SAD_BOT)
 
