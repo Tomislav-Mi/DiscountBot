@@ -14,7 +14,7 @@
 - Upload the code to a server, run [main.py](https://github.com/Tomislav-Mi/DiscountBot/blob/main/main.py) and keep it running at all time.[^2]
 
 ## Link to Live Version
-- Link to Discount Bot: https://t.me/discount_beep_bot
+- ~~Link to Discount Bot: https://t.me/discount_beep_bot~~ 
 
 
 
